@@ -167,7 +167,7 @@ nav {
     position: fixed; /* This makes the header fixed */
     top: 0;
     width: 100%;
-    background-color: rgb(21, 3, 9); /* Same background color */
+    background-color: rgb(21, 5, 10); /* Same background color */
     z-index: 1000; /* Keeps it above other content */
 }
 
@@ -365,7 +365,7 @@ footer {
 .resume-link {
     display: inline-block;
     padding: 10px 15px;
-    background-color: rgb(53, 19, 30)0; /* Green background */
+    background-color: rgb(21, 5, 10);; /* Green background */
     color: white; /* White text */
     border-radius: 5px; /* Rounded corners */
     text-decoration: none; /* Remove underline */
